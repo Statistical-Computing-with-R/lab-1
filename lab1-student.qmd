@@ -55,8 +55,6 @@ document will render even if there are errors.
 ## Running the Provided Code
 
 ```{r}
-#| eval: false
-#| echo: true
 #| label: practicing-running-code
 
 1 + 1
@@ -86,7 +84,6 @@ section (e.g., Tooth Growth Dataset).
 **Question 6** -- Replace the `plot(pressure)` code with the code provided in the Lab 1 instructions.
 
 ```{r}
-#| echo: true
 #| label: creating-a-plot
 
 plot(pressure)
@@ -106,3 +103,5 @@ should be **center aligned**.
 **Question 9** -- Specify a **figure caption** for the boxplots (using a
 code-chunk option).
 
+
+<!-- There are other questions / tasks you need to accomplish -- go look at the Lab 1 instructions!  -->
